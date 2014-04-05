@@ -1,0 +1,23 @@
+[main] TRT 1007 (0) exception: trapped!
+[main] TRT 1007 (0) exception: code 0xC0000005 at 0x40112A
+[main] TRT 1007 (0) exception: ax 0x16ADE47C bx 0x4FEF cx 0x2707B3 dx 0x415004
+[main] TRT 1007 (0) exception: si 0x33AFD98 di 0x4FF0 bp 0x32C0078 sp 0x32C005C
+[main] TRT 1007 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] TRT 1007 (0) stack: Stack trace:
+[main] TRT 1007 (0) stack: frame 0: sp = 0x32BFA68, pc = 0x6100A2C3
+[main] TRT 1007 (0) stack: frame 1: sp = 0x32BFAA4, pc = 0x771B2E71
+[main] TRT 1007 (0) stack: frame 2: sp = 0x32BFAC8, pc = 0x771B2E43
+[main] TRT 1007 (0) stack: frame 3: sp = 0x32BFB90, pc = 0x771B2CBB
+[main] TRT 1007 (0) stack: frame 4: sp = 0x32C0078, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 5: sp = 0x32C00A8, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 6: sp = 0x32C00D8, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 7: sp = 0x32C0108, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 8: sp = 0x32C0138, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 9: sp = 0x32C0168, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 10: sp = 0x32C0198, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 11: sp = 0x32C01C8, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 12: sp = 0x32C01F8, pc = 0x401158
+[main] TRT 1007 (1) stack: frame 13: sp = 0x32C0228, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 14: sp = 0x32C0258, pc = 0x401158
+[main] TRT 1007 (0) stack: frame 15: sp = 0x32C0288, pc = 0x401158
+[main] TRT 1007 (0) stack: End of stack trace (more stack frames may be present)
